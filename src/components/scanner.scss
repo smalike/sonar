@@ -1,0 +1,25 @@
+.dev_helper_sonar{
+  z-index: 9990;
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #dedede;
+
+  margin: 1rem;
+
+  .item{
+    margin: 1rem 0;
+
+    form{
+      label{
+        display: block;
+        margin: 1rem 0;
+      }
+      input{
+        width: 100%;
+      }
+      button{
+        margin: 0 1rem 0 0;
+      }
+    }
+  }
+}
